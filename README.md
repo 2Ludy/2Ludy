@@ -1,6 +1,5 @@
-## Hi there 👋
+## 기능보다 사람을 먼저 보는 개발자 👋
 
-<!--
 **2Ludy/2Ludy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ## ✅ 깃허브 요약
 
