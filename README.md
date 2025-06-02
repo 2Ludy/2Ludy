@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ✅✅ 깃허브 요약
+## ✅ 깃허브 요약
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Ludy&show_icons=true&theme=radical)
+
+<hr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
